@@ -1,0 +1,24 @@
+{
+  "name": "ai-templates-marketplace-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000"
+  },
+  "dependencies": {
+    "next": "13.4.12",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "axios": "^1.4.0",
+    "stripe": "^12.10.0",
+    "formidable": "^3.6.0",
+    "archiver": "^5.3.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.5.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24"
+  }
+}
